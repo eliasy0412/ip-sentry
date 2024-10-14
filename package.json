@@ -1,15 +1,15 @@
 {
-  "name": "ip-log-js",
+  "name": "sequi-ban",
   "version": "3.3.1",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
-  "homepage": "https://github.com/eliasy0412/ip-log-js",
+  "homepage": "https://github.com/eliasy0412/sequi-ban",
   "bugs": {
-    "url": "https://github.com/eliasy0412/ip-log-js/issues"
+    "url": "https://github.com/eliasy0412/sequi-ban/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eliasy0412/ip-log-js.git"
+    "url": "https://github.com/eliasy0412/sequi-ban.git"
   },
   "license": "MIT",
   "author": "Tomi Kano <kn.tomi0516@gmail.com>",
