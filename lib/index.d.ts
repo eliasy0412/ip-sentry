@@ -27,7 +27,7 @@ declare namespace is {
       seg: typeof seg;
     }
     
-    declare module 'ip-sentry' {
+    declare module 'ip-log-js' {
       const Module: ClientIpModule;
       export default Module;
     }

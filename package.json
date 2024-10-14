@@ -1,15 +1,15 @@
 {
-  "name": "ip-sentry",
+  "name": "ip-log-js",
   "version": "3.3.1",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
-  "homepage": "https://github.com/eliasy0412/ip-sentry",
+  "homepage": "https://github.com/eliasy0412/ip-log-js",
   "bugs": {
-    "url": "https://github.com/eliasy0412/ip-sentry/issues"
+    "url": "https://github.com/eliasy0412/ip-log-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eliasy0412/ip-sentry.git"
+    "url": "https://github.com/eliasy0412/ip-log-js.git"
   },
   "license": "MIT",
   "author": "Tomi Kano <kn.tomi0516@gmail.com>",
