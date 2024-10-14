@@ -1,15 +1,15 @@
 {
-  "name": "sequi-ban",
+  "name": "req-ban",
   "version": "3.3.1",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
-  "homepage": "https://github.com/eliasy0412/sequi-ban",
+  "homepage": "https://github.com/eliasy0412/req-ban",
   "bugs": {
-    "url": "https://github.com/eliasy0412/sequi-ban/issues"
+    "url": "https://github.com/eliasy0412/req-ban/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eliasy0412/sequi-ban.git"
+    "url": "https://github.com/eliasy0412/req-ban.git"
   },
   "license": "MIT",
   "author": "Tomi Kano <kn.tomi0516@gmail.com>",

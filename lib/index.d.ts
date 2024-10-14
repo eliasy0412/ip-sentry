@@ -27,7 +27,7 @@ declare namespace is {
       seg: typeof seg;
     }
     
-    declare module 'sequi-ban' {
+    declare module 'req-ban' {
       const Module: ClientIpModule;
       export default Module;
     }
